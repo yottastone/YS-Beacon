@@ -34,10 +34,9 @@ YS-Beacon 还集成了 3轴加速度计、3轴陀螺仪、3轴罗盘、环境光
 
     . . .
 
-我们再来看下 Google 关于 Physical Web 的介绍：
+我们还可以看看 Google 关于 [The Physical Web](https://google.github.io/physical-web/) 的介绍。
 
-<iframe width="100%" src="http://oh16j94j6.bkt.clouddn.com/ys-beacon/Introduction%20to%20the%20Physical%20Web.mp4" allowfullscreen></iframe>
-
+## 为什么要做这件事？
 
 
 ---
